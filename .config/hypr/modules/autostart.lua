@@ -12,6 +12,6 @@ hl.on("hyprland.start", function ()
   hl.exec_cmd("systemctl --user start hyprpolkitagent")
   hl.exec_cmd("hyprctl switchxkblayout current 1")
   hl.exec_cmd("waybar & hyprpaper & swaync")
-  hl.exec_cmd("webcord -m")
+  hl.exec_cmd("discord --start-minimized")
 end)
 

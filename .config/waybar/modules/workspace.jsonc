@@ -12,12 +12,8 @@
       "onlyoffice": "󰏆",
       "firefox": "",
       "codium": "",
-      "azahar": "",
-      "obsidian": "󰹕",
-      "mousepad": "󱓧",
       // --- Apps ---
-      "webcord": "",
-      "spotify": "",
+      "discord": "",
       "org.kde.kdeconnect.app": "󰦉",
       "org.qbittorrent.qBittorrent": "󰘿",
       "prusa-slicer": "",
@@ -25,9 +21,6 @@
       // --- Graphics & Visual ---
       "xdg-desktop-portal-gtk": "",
       "nautilus": "",
-      "yazi": "󰇥",
-      "imv": "󰄄",
-      "swappy": "󰄄",
       "org.gnome.FileRoller": "",
       "vlc": "󰕼",
       "mpv": "󰕼",
