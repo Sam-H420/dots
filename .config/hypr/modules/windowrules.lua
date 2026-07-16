@@ -18,10 +18,10 @@ hl.window_rule({
 hl.window_rule({
     name = "start-look-float",
     match = {
-        class = "^(nwg-look|org.pulseaudio.pavucontrol)$"
+        class = "^(nwg-look|org.pulseaudio.pavucontrol|io.github.realmazharhussain.GdmSettings)$"
     },
     float = true,
-    size = {788, 426},
+    size = {800, 500},
     center = true
 })
 
